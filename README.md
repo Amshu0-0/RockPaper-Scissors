@@ -17,4 +17,4 @@ Computer wins
 ![Player wins](imageFolder/ComputerWins.png)
 
 When the game ties
-![Game Ties}(imageFolder/GameDraw.png)
+![Game Ties](imageFolder/GameDraw.png)
