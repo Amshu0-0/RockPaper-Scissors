@@ -1,4 +1,4 @@
-# rockpaper
+# Rock Paper &amp; Scissors
 Rock Paper &amp; Scissors
 - An interactive browser-based game of Rock, Paper, Scissors, enhancing user engagement with an intuitive design and responsive gameplay.
   
